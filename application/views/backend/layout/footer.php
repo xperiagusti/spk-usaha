@@ -3,7 +3,7 @@
   <hr>
 <div class="text-center">Copyright &copy; 2022
 
-Sistem Pendukung Keputusan
+Sistem Pendukung Keputusan Penentuan Usaha
 </div>
 <div class="footer-right">
 
